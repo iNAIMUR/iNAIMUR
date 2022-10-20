@@ -7,9 +7,9 @@ I'm learning to be a Web developer. Who is passionate about making errors I have
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=inaimur)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inaimur)](https://github.com/anuraghazra/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=inaimur)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inaimur)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/inaimur)  
 
